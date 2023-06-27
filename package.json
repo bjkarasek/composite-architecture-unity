@@ -1,0 +1,23 @@
+{
+  "name": "com.karaskigames.compositearchitecture",
+  "version": "0.1.0",
+  "displayName": "Composite Architecture for Unity",
+  "description": "",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/bjkarasek/composite-architecture-unity",
+  "changelogUrl": "https://github.com/bjkarasek/composite-architecture-unity",
+  "licensesUrl": "https://github.com/bjkarasek/composite-architecture-unity/blob/main/LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+    "unity",
+    "dependency-injection",
+    "architecture"
+  ],
+  "author": {
+    "name": "Bartek Karasek",
+    "email": "bartkarasek@gmail.com",
+    "url": "https://github.com/bjkarasek/composite-architecture-unity"
+  }
+}
